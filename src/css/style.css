@@ -109,6 +109,7 @@ body {
     body {
         background-image: url(../images/bg-mobile.svg);
         background-repeat: no-repeat;
+        margin: 10px;
     }
 
     .header .logo {
